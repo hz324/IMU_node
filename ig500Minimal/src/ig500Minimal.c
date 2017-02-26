@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	//
 	// Init our communications with the device (Please change here the com port and baud rate)
 	//
-	if (sbgComInit("COM35", 115200, &protocolHandle) == SBG_NO_ERROR)
+	if (sbgComInit("COM3", 115200, &protocolHandle) == SBG_NO_ERROR)
 	{
 		//
 		// Wait until the device has been initialised
