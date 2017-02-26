@@ -1,3 +1,4 @@
 ﻿  ig500Minimal.c
-  ig500Minimal.vcxproj -> C:\Users\Demetris\Desktop\cauv\IMU CD-R Files-20170219T140405Z\IMU CD-R Files\IME_CD_FILES\IG-500 SDK\Software Development\Examples\ig500Minimal\projects\visual\Debug\ig500Minimal.exe
-  ig500Minimal.vcxproj -> C:\Users\Demetris\Desktop\cauv\IMU CD-R Files-20170219T140405Z\IMU CD-R Files\IME_CD_FILES\IG-500 SDK\Software Development\Examples\ig500Minimal\projects\visual\Debug\ig500Minimal.pdb (Full PDB)
+ig500Minimal.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ig500Minimal.vcxproj -> C:\Users\Demetris\Desktop\cauv\IMU_node\ig500Minimal\projects\visual\Debug\ig500Minimal.exe
+  ig500Minimal.vcxproj -> C:\Users\Demetris\Desktop\cauv\IMU_node\ig500Minimal\projects\visual\Debug\ig500Minimal.pdb (Full PDB)
